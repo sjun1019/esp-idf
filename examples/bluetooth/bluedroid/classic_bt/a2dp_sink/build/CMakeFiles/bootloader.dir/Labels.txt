@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Volumes/project/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink/build/CMakeFiles/bootloader
+/Volumes/project/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink/build/CMakeFiles/bootloader.rule
+/Volumes/project/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink/build/CMakeFiles/bootloader-complete.rule
+/Volumes/project/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Volumes/project/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Volumes/project/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Volumes/project/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/Volumes/project/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Volumes/project/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Volumes/project/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

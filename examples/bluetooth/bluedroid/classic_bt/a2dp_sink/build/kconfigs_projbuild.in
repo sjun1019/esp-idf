@@ -1,0 +1,5 @@
+source "/Volumes/project/esp-idf/components/app_update/Kconfig.projbuild"
+source "/Volumes/project/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/Volumes/project/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/Volumes/project/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/Volumes/project/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink/main/Kconfig.projbuild"
